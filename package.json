@@ -1,8 +1,8 @@
 {
-  "name": "M06-L02-02",
+  "name": "M06-L03-01",
   "version": "1.0.0",
   "description": "",
-  "main": "functions.js",
+  "main": "AddOne.Test.js",
   "scripts": {
     "test": "jest"
   },
