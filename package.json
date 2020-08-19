@@ -1,15 +1,15 @@
 {
-  "name": "M06-L03-01",
+  "name": "M06-L04-01",
   "version": "1.0.0",
   "description": "",
-  "main": "AddOne.Test.js",
+  "main": "script.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^26.4.0"
   }
 }
